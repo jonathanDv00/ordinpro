@@ -1,0 +1,189 @@
+*{
+/* border: 1px dashed; */
+}
+header{
+    background: rgb(255, 255, 255,0.6);
+
+}
+li a span{
+    margin-right: 20px;
+}
+
+.menuDesplegable{
+    background: #202020;
+    list-style: none;
+
+   /* outline: 1px solid black;*/
+}
+.menuDesplegable a{
+    color: #fff;
+    line-height: 35px;
+    text-decoration: none;
+    display: block;
+    font-size: 15px
+}
+.menuDesplegable li{
+ 
+    margin-bottom: 2px;
+    margin-left: 1em;
+
+    
+}
+.menuDesplegable li:hover{
+    box-shadow: 18em 0 rgba(75, 72, 72, 0.884) inset;
+}
+.color1{
+    background: #34495e;
+    color:#fff;
+}
+.VentanaProcesos{
+    
+    outline: 1px solid rgb(175, 180, 175);
+    background: rgb(255, 255, 255,0.3);
+  
+}
+
+footer{
+    background: rgb(226, 204, 164,0.6);
+    color:#fff;
+}
+.imagen{
+    position: relative;
+     width: 270px;
+     height: 120px;
+     padding: 10px;
+}
+.main{
+    padding: 14px;
+
+}
+/* .main{
+    margin: 4px;
+} */
+.fotoPerfil{
+    width: 35px;
+    height: 35px;
+}
+.p-2{
+    background: #1768b9;
+    color: #fff
+   
+}
+.submenu{
+font-size: 12px;
+}
+.my-custom-scrollbar {
+    position: relative;
+    width: 800px;
+    height: 650px;
+    overflow: auto;
+  }
+ /* esto es el ordenamiento por filtro de columnas para aprendices */
+.filtro{
+    
+    line-height: 35px;
+    display: block;
+    font-size: 14px
+    
+}
+.filtro1{
+    list-style: none;
+   
+}
+.filtro1 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.aprendices{
+    
+    list-style: none;
+    outline: 2px solid rgb(175, 180, 175);
+}
+.aprendices li  {
+background: #fc7323;
+
+}
+.aprendices li a{
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+    text-decoration: none;
+    display: block;
+    
+}
+.aprendices {
+    outline: 2px solid rgb(175, 180, 175);
+
+}
+table{
+	background: white;
+	text-align: center;
+    width: 100%;
+
+    
+    
+}
+th,td{
+	padding: 7px;
+    font-size: 14px
+}
+ .tituloTabla{
+	background:#312f2e;
+    color: white;
+   
+
+
+} 
+ /* tr:nth-child(even){
+	background: rgb(238, 233, 233);
+}  */
+
+
+footer{
+    font-size: 10px;
+    width: 100%;
+    height: 100px;
+    margin-top: 40px;
+    background-color: #202020;
+}
+#prueba{
+    margin: 6px;
+}
+.linea{
+    background: #17a391;
+    padding: 0.9%;
+}
+.linea2{
+    background: #f37812;
+    padding: 0.9%;
+}
+.linea3{
+    background: #62bd5a;
+    padding: 0.9%;
+}
+.linea4{
+    background: #2071a7;
+    padding: 0.9%;
+}
+.mensaje{
+    padding: 0.9%;
+    color: white;
+    background:#312f2e;
+    
+}
+
+.mensaje1{
+    padding: 1.5%;
+    color: white;
+    background: #159483;
+
+   
+}
+
+.colorModal{
+    color: #fff;
+    background: #f37812;
+
+}
+
